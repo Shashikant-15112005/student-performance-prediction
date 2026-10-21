@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.idea/
+.virtual_documents/
+anaconda_projects/
+.student.zip_old
+*.zip
