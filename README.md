@@ -27,3 +27,7 @@ using academic, demographic, and social information.
 Predictions are estimates, not guaranteed grades. The model was trained
 on a dataset of students from two Portuguese schools, so performance
 may differ for other student populations.
+
+
+## Declaration
+Since this was my first hands-on-experience with the concepts I was learning , the application's functionality is currently very limited and not highly practical. It is just to test my understanding.
