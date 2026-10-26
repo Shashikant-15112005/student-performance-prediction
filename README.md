@@ -1,6 +1,8 @@
 
 # Student Performance Prediction
 
+https://student-performance-prediction-ryhfzr2pwtyvvvke9xxwbo.streamlit.app/
+
 ## Overview
 A machine learning project that predicts a student's final mathematics grade
 using academic, demographic, and social information.
